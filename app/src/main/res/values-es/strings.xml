@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Guía de Pociones de Minecraft</string>
+        <string name="strength">Fuerza</string>
+        <string name="night_vision">Visión Nocturna</string>
+        <string name="fire_resistence">Resistente al Fuego</string>
+        <string name="invisible">Invisibilidad</string>
+        <string name="super_jump">Súper Isla</string>
+        <string name="poison">Poción de Veneno</string>
+        <string name="negative_potions">Pociones Negativas</string>
+        <string name="positive_potions">Pociones Positivas</string>
+        <string name="potion_Strange">Poción Extraña</string>
+        <string name="fermented_spider_eye">Ojo de Araña Fermentado</string>
+        <string name="golden_carrot">Cenoura Dourada</string>
+        <string name="spider_eye">Zanahoria Dorada</string>
+        <string name="rabbits_foot">Pata de Conejo</string>
+        <string name="immediate_damage">Daño Inmediato</string>
+        <string name="tittle_poison">Veneno</string>
+        <string name="weakness">Debilidad</string>
+        <string name="magma_creams">Crema de Magma</string>
+        <string name="blaze_powder">Polvo de Fuego</string>
+</resources>

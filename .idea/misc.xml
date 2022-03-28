@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/QI/Documents/Murilo Ferreira Manha/Minecraft/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.19" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/activity_2.xml" value="0.2" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/activity_3.xml" value="0.2" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/activity_4.xml" value="0.33" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/activity_night_vision.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/activity_night_vision2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/activity_pocoes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/activity_positive_potions.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/activity_potion_fire_resistense.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/activity_potion_night_vision.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/activity_potion_strenght.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/negative_potions_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/pocoes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/positive_potions_activity.xml" value="0.33" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft/app/src/main/res/layout/potion_strenght.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft1/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft1/app/src/main/res/layout/activity_negative_potions.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft1/app/src/main/res/layout/activity_positive_potions.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_fire_resistense.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_immediate_damage.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_invisible.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_night_vision.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_poison.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_strenght.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_super_jump.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/QI/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_weakness.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/natha/Downloads/Minecraft1/app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/natha/Downloads/Minecraft1/app/src/main/res/layout/activity_negative_potions.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/natha/Downloads/Minecraft1/app/src/main/res/layout/activity_positive_potions.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/natha/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_fire_resistense.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/natha/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_immediate_damage.xml" value="0.25" />
+        <entry key="..\:/Users/natha/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_invisible.xml" value="0.25" />
+        <entry key="..\:/Users/natha/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_night_vision.xml" value="0.33" />
+        <entry key="..\:/Users/natha/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_poison.xml" value="0.33" />
+        <entry key="..\:/Users/natha/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_strenght.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/natha/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_super_jump.xml" value="0.33" />
+        <entry key="..\:/Users/natha/Downloads/Minecraft1/app/src/main/res/layout/activity_potion_weakness.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:backgroundTint="#7A4F13"
+    tools:context=".MainActivity">
+
+   <View
+       android:id="@+id/view3"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       app:layout_constraintBottom_toBottomOf="parent"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toTopOf="parent" />
+
+   <androidx.constraintlayout.widget.Guideline
+       android:id="@+id/guideline10"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       app:layout_constraintGuide_percent="0.95" />
+
+   <androidx.constraintlayout.widget.Guideline
+       android:id="@+id/guideline11"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       app:layout_constraintGuide_percent="0.05" />
+
+   <androidx.constraintlayout.widget.Guideline
+       android:id="@+id/guideline12"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       app:layout_constraintGuide_percent="0.95" />
+
+   <androidx.constraintlayout.widget.Guideline
+       android:id="@+id/guideline13"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       app:layout_constraintGuide_percent="0.05" />
+
+   <ImageView
+       android:id="@+id/imageView11"
+       android:layout_width="350dp"
+       android:layout_height="250dp"
+       android:layout_marginStart="8dp"
+       app:layout_constraintEnd_toStartOf="@+id/guideline10"
+       app:layout_constraintHorizontal_bias="0.083"
+       app:layout_constraintStart_toStartOf="@+id/guideline11"
+       app:layout_constraintTop_toTopOf="@+id/guideline13"
+       app:srcCompat="@drawable/_ac3dc1b964d5bdcdfa82df600a470ee" />
+
+   <Button
+       android:id="@+id/btn_positive_potions"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="8dp"
+       android:text="@string/positive_potions"
+       app:layout_constraintEnd_toStartOf="@+id/guideline10"
+       app:layout_constraintStart_toStartOf="@+id/guideline11"
+       app:layout_constraintTop_toBottomOf="@+id/imageView11" />
+
+   <Button
+       android:id="@+id/btn_negative_potions"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="16dp"
+       android:text="@string/negative_potions"
+       app:layout_constraintEnd_toStartOf="@+id/guideline10"
+       app:layout_constraintStart_toStartOf="@+id/guideline11"
+       app:layout_constraintTop_toBottomOf="@+id/btn_positive_potions" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

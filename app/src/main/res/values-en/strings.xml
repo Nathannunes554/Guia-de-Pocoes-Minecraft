@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Minecraft Guide Potions</string>
+        <string name="strength">Strenght</string>
+        <string name="night_vision">Night Vision</string>
+        <string name="fire_resistence">Fire resistence</string>
+        <string name="invisible">Invisible</string>
+        <string name="super_jump">Super Jump</string>
+        <string name="poison">Poison Potion</string>
+        <string name="negative_potions">Negative Potions</string>
+        <string name="positive_potions">Positive Potions</string>
+        <string name="potion_Strange">Strange Potion</string>
+        <string name="fermented_spider_eye">Fermented Spider Eye</string>
+        <string name="golden_carrot">Golden Carrot</string>
+        <string name="spider_eye">Spider Eye</string>
+        <string name="rabbits_foot">Rabbits Foot</string>
+        <string name="immediate_damage">Immediate Damage</string>
+        <string name="tittle_poison">Poison</string>
+        <string name="weakness">Weakness</string>
+        <string name="magma_creams">Magma Creams</string>
+        <string name="blaze_powder">Blaze Powder</string>
+</resources>
